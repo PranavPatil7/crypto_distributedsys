@@ -1,6 +1,6 @@
 # Big Data Cryptocurrency Project
 
-This project showcases a big data processing pipeline for cryptocurrency data using Hadoop, Spark Streaming, Kafka, MongoDB, and a React dashboard. The dataset used for this project is a CSV file of cryptocurrency data obtained from [ Kaggle G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting/data). The main goal of this project is to create a pipeline to process the dataset using a batch processing layer and a streaming processing layer, simulation the daily cryoptocurrency trade.
+Big data processing pipeline for cryptocurrency data using Hadoop, Spark Streaming, Kafka, MongoDB, and a React dashboard. The dataset used for this project is a CSV file of cryptocurrency data obtained from [ Kaggle G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting/data). The main goal of this project is to create a pipeline to process the dataset using a batch processing layer and a streaming processing layer, simulation the daily cryoptocurrency trade.
 
 ## Table of Contents
 
